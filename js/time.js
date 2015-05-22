@@ -53,9 +53,10 @@
 	}
 
 	if (h>3) {
-		strFinalMsg = strFinalMsg.concat(" It might take a day for me to respond.");
-
+		strFinalMsg = strFinalMsg.concat(" It might take an extra hour for me to respond.");
 	}
 
-	document.getElementById("timeOffset").innerHTML = strFinalMsg;
+	var strMsgOut = strFinalMsg.concat(" <br><br>I am looking forward to your enquiry.");
+
+	document.getElementById("timeOffset").innerHTML = strMsgOut;
 })();
