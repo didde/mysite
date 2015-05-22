@@ -35,7 +35,7 @@ a.active {
 }
 
 a {
-    color: #8F776C;
+    color: #f6bf01;
 }
 
 a:hover,
@@ -755,7 +755,7 @@ footer {
 }
 
 footer span.copyright {
-    text-transform: uppercase;
+    
     text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
