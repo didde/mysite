@@ -183,7 +183,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #fec503;
+    color: #fed136;
 }
 
 .navbar-default .navbar-collapse {
@@ -247,7 +247,7 @@ background-color: #fcf8e3;
     }
 
     .navbar-default .navbar-brand {
-        font-size: 3em;
+        font-size: 4em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -268,7 +268,7 @@ background-color: #fcf8e3;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
-        font-size: 2em;
+        font-size: 3em;
     }
 }
 
