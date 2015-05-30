@@ -118,6 +118,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-xl {
+    -webkit-appearance: none;
     padding: 20px 40px;
     border-color: #fed136;
     border-radius: 3px;
@@ -134,6 +135,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
+    -webkit-appearance: none;
     border-color: #f6bf01;
     color: #fff;
     background-color: #fec503;
@@ -160,11 +162,13 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
+    -webkit-appearance: none;
     border-color: #fed136;
     background-color: #fed136;
 }
 
 .btn-xl .badge {
+    -webkit-appearance: none;
     color: #fed136;
     background-color: #fff;
 }
