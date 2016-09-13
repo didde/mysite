@@ -5,7 +5,10 @@ var keywords = ["machine learning?",
 "correlations?",
 "causality?",
 "hypothesis testing?",
+"conversion?",
 "A/B testing?",
+"algorithms?",
+"cohorts?",
 "end user testing?",
 "neural networks?",
 "regressions?",
@@ -24,6 +27,8 @@ var keywords = ["machine learning?",
 "monte carlo?",
 "markov chains?",
 "times series?",
+"stationarity?",
+"ergodicity?",
 "economics?",
 "uncertainty?",
 "life?",
@@ -37,4 +42,4 @@ setInterval(function(){
             count = 0;        
         $(this).fadeIn(400);    
     });
-}, 4000);
+}, 2200);
