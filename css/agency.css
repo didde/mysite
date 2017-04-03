@@ -49,7 +49,7 @@ h1,
 h2,
 h3,
 h4,
-h5,
+h5
 h6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -175,7 +175,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #B83700;
+    background-color: #00334d;
 }
 
 .navbar-default .navbar-brand {
@@ -238,12 +238,13 @@ fieldset[disabled] .btn-xl.active {
 background-color: #fcf8e3;
 }
 
+/*#00334d*/
 /*KEY COMPONENT NAVBAR*/
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: #B83700;
+        background-color: #00334d;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -263,7 +264,7 @@ background-color: #fcf8e3;
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #B83700;
+        background-color: #00334d;
         -webkit-transition: opacity .3s ease-in-out;
         -moz-transition: opacity .3s ease-in-out;
         transition: opacity .3s ease-in-out;
