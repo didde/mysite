@@ -179,7 +179,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "roboto","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: 'Courier New', monospace;
+    font-size: 36px;
     color: #fed136;
 }
 
